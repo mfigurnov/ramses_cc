@@ -13,7 +13,7 @@
     "requirements": [
       "aiousbwatcher>=1.1.1",
       "pyserial-asyncio-fast>=0.16",
-      "ramses-rf==0.55.3"
+      "ramses-rf @ git+https://github.com/mfigurnov/ramses_rf.git@99b1aa0e8a8c75e4cb6a8c4e54858b423de79946"
     ],
     "single_config_entry": true,
     "version": "0.55.3"
